@@ -1,4 +1,4 @@
 test
 ====
 
-testing area
+A testing area to help me to learn how to use Git
